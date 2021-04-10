@@ -19,7 +19,7 @@ EMAIL_PORT = 587
 EMAIL_ADDRESS = "computersociety@itba.edu.ar"
 EMAIL_FROM = "Computer Society ITBA<" + EMAIL_ADDRESS + ">"
 EMAIL_PASS_VAR = "EMAIL_PASS"
-EMAIL_SUBJECT = "Certificado de Asistencia | Curso de Web Backend"
+EMAIL_SUBJECT = "Certificado de Asistencia | Curso de Web Backend"
 
 # Paths
 DIR_TEMP = "./temp"
@@ -32,7 +32,7 @@ CERT_PATH = DIR_CERTS + "/cert_"
 # Excel fields to keep
 FIELD_NAME = "Nombre"
 FIELD_SURNAME = "Apellido"
-FIELD_EMAIL = "Email Address"
+FIELD_EMAIL = "Email"
 FIELD_FILE = "Filename"
 FIELDS = [FIELD_NAME, FIELD_SURNAME, FIELD_EMAIL]
 
